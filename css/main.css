@@ -1,0 +1,49 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.hero-unit{padding:10px 20px;}
+
+body > .navbar .social {
+    font-weight: bold;
+    float:right;
+    line-height:40px;
+    margin: 0px 5px;
+    height: 35px;
+    width: 30px;
+    background: url('../img/social_signin_folio.png') no-repeat 0 0 transparent;
+}
+body > .navbar .twitter {
+    background-position: -45px 5px;
+}
+body > .navbar .twitter:hover {
+    background-position: -134px 5px;
+}
+body > .navbar .facebook {
+    background-position: -45px -45px;
+}
+body > .navbar .facebook:hover {
+    background-position: -134px -45px;
+}
+body > .navbar .linkdin {
+    background-position: -45px -96px;
+}
+body > .navbar .linkdin:hover {
+    background-position: -134px -96px;
+}
+h2 {line-height: 50px;}
+footer{text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
